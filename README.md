@@ -44,3 +44,18 @@ When you reheat the rice, it is important that you ensure that it is piping hot 
 ## definition of food
 
 _any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth._
+
+# My Profile
+## Name
+Yuko
+## Nationality
+Japan
+## Location
+Düsseldorf
+
+# Recipe for My Favourite Dish
+## Quinoa Salad
+- Cook quinoa
+- Cut vegetables
+- Mix with the dressing
+
